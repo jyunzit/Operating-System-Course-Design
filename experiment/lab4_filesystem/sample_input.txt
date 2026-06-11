@@ -1,0 +1,15 @@
+7
+1
+a.txt
+2
+a.txt
+hello operating system file management
+3
+a.txt
+5
+6
+4
+a.txt
+5
+6
+0
